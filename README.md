@@ -1,4 +1,4 @@
-## ML LAB mtech 2nd sem ssignment
+## Machine Learning LAB mtech 2nd sem ssignment
 Apriori_Algorithm.ipynb
 
 BackPropagationNeuralNetwork.ipynb
