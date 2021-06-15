@@ -2,13 +2,13 @@
 
 
 
-Apriori_Algorithm
+Apriori Algorithm
 
 BackPropagationNeuralNetwork
 
-Genetic_Algorithm
+Genetic Algorithm
 
-K_Medoid_Algorithm
+K Medoid Algorithm
 
 LogisticRegression
 
@@ -16,29 +16,25 @@ matrix multiplication
 
 MultivariateRegression
 
-PSO_Particle_Swarm_Optimization
+PSO Particle Swarm Optimization
 
-Principal_Component_Analysis
+Principal Component Analysis
 
-
-RSA_ALGO
+RSA ALGO
 
 SparseMatrixMultiplication
 
 SqrtFunction
 
-Steepest_Descent_Search_Gradient_Descent
-TSP
-abc_artificial_bee_colony_algorithm
+Steepest Descent Search Gradient Descent TSP,
+ abc artificial bee colony algorithm
 
-decision_tree_classifier
-elliptic_curve
+decision tree classifier elliptic curve
 
-linear_regression
+linear regression
 
-logistic_regression
+logistic regression
 
-rsa_algo
+rsa algo
 
-support_vector_machines
-
+support vector machines
