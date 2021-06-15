@@ -1,44 +1,44 @@
-## Machine Learning LAB mtech 2nd sem ssignment
-Apriori_Algorithm.ipynb
-
-BackPropagationNeuralNetwork.ipynb
-
-Genetic_Algorithm.ipynb
-
-K_Medoid_Algorithm.ipynb
-
-LogisticRegression.ipynb
-
-MatrixMultiplication.ipynb
-
-MultivariateRegression.ipynb
-
-PSO_Particle_Swarm_Optimization.ipynb
-
-Principal_Component_Analysis.ipynb
+## Machine Learning LAB mtech 2nd sem assignment
 
 
-RSA_ALGO.ipynb
 
-SparseMatrixMultiplication.ipynb
+Apriori_Algorithm
 
-SqrtFunction.ipynb
+BackPropagationNeuralNetwork
 
-Steepest_Descent_Search_Gradient_Descent.ipynb
+Genetic_Algorithm
 
-TSP.ipynb
+K_Medoid_Algorithm
 
-abc_artificial_bee_colony_algorithm.ipynb
+LogisticRegression
 
-decision_tree_classifier.ipynb
+matrix multiplication
 
-elliptic_curve.ipynb
+MultivariateRegression
 
-linear_regression.ipynb
+PSO_Particle_Swarm_Optimization
 
-logistic_regression.ipynb
+Principal_Component_Analysis
 
-rsa_algo.ipynb
 
-support_vector_machines.ipynb
+RSA_ALGO
+
+SparseMatrixMultiplication
+
+SqrtFunction
+
+Steepest_Descent_Search_Gradient_Descent
+TSP
+abc_artificial_bee_colony_algorithm
+
+decision_tree_classifier
+elliptic_curve
+
+linear_regression
+
+logistic_regression
+
+rsa_algo
+
+support_vector_machines
 
