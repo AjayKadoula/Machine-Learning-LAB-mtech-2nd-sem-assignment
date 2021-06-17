@@ -4,7 +4,7 @@
 
 Apriori Algorithm
 
-BackPropagationNeuralNetwork
+Back Propagation Neural Network
 
 Genetic Algorithm
 
@@ -16,25 +16,27 @@ matrix multiplication
 
 MultivariateRegression
 
-PSO Particle Swarm Optimization
+PSO - Particle Swarm Optimization
 
 Principal Component Analysis
 
 RSA ALGO
 
-SparseMatrixMultiplication
+Sparse Matrix Multiplication
 
 SqrtFunction
 
-Steepest Descent Search Gradient Descent TSP,
- abc artificial bee colony algorithm
+Steepest Descent Search Gradient Descent
+TSP
 
-decision tree classifier elliptic curve
+ABC - artificial bee colony algorithm
 
-linear regression
+Decision Tree Classifier 
 
-logistic regression
+Elliptic Curve
 
-rsa algo
+Linear regression
 
-support vector machines
+Logistic regression
+
+Support vector machines
